@@ -167,7 +167,7 @@ int main() {
 
 1. Hash set
 
-![hash set Brute Force.jpg](37e02d44-02d4-465f-8876-e4c833a813a0.png)
+![alt text](<hashset brute force.png>)
 
 This is the Brute force approach where we are using two for loops so time complexity becomes O(n^2). 
 
