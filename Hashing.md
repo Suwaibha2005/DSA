@@ -173,7 +173,7 @@ This is the Brute force approach where we are using two for loops so time comple
 
 ### optimized approach
 
-![hash set optimized approach.jpg](hash_set_optimized_approach.jpg)
+![alt text](<hash set optimized approach.jpg>)
 
 here we are using only one for loop so time complexity becomes O(n).
 
