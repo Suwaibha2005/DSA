@@ -206,5 +206,4 @@ bool solve(vector<int>& nums) {
 ```
 
 ### Optimized approach for hash map
-
-![optimized approach.jpg](optimized_approach.jpg)
+![alt text](<optimized approach.jpg>)
